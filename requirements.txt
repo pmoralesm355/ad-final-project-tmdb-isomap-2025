@@ -1,0 +1,8 @@
+﻿requests>=2.32
+python-dotenv>=1.0
+networkx>=3.2
+matplotlib>=3.8
+plotly>=5.24
+tqdm>=4.66
+requests-cache>=1.2
+backoff>=2.2
