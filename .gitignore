@@ -1,5 +1,5 @@
 .env
 tmdb_cache.sqlite
-out/
-__pycache__/
+**/out/
+**/__pycache__/
 .venv/
